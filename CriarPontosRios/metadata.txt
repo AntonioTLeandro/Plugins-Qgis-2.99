@@ -16,8 +16,8 @@ email=antoniot.leandro@gmail.com
 
 about=Ferramenta cria pontos de inicio e fim e confluentes dos rios, pontos de inicio e fim são criados apartir da elevação(Z) de cada de cada coordenada, em cada ponto e colocado o nome do rio, em casos de ter rios se crusando sempre sera pego o mais relevante.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/AntonioTLeandro/Plugins-Qgis-2.99/blob/master/CriarPontosRios/metadata.txt
+repository=https://github.com/AntonioTLeandro/Plugins-Qgis-2.99/blob/master/CriarPontosRios/metadata.txt
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +28,7 @@ repository=http://repo
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/AntonioTLeandro/Plugins-Qgis-2.99/blob/master/CriarPontosRios/metadata.txt
 category=Vector
 icon=icon.png
 # experimental flag
