@@ -14,7 +14,9 @@ version=1.0
 author=Antônio Teles
 email=antoniot.leandro@gmail.com
 
-about=Ferramenta cria pontos de inicio e fim e confluentes dos rios, pontos de inicio e fim são criados apartir da elevação(Z) de cada de cada coordenada, em cada ponto e colocado o nome do rio, em casos de ter rios se crusando sempre sera pego o mais relevante.
+about=Ferramenta cria pontos de início e fim e confluentes dos rios, pontos de início e fim são criados a partir da elevação(Z) de cada de cada coordenada, em cada ponto e colocado o nome do rio, em casos de ter rios se cruzando sempre pegara o mais relevante.
+O shape precisa ser linear e 3D, carregue o shape, escolher a coluna onde esta no nome do rio, e escolha onde quer salvar.
+
 
 tracker=https://github.com/AntonioTLeandro/Plugins-Qgis-2.99/blob/master/CriarPontosRios
 repository=https://github.com/AntonioTLeandro/Plugins-Qgis-2.99/blob/master/CriarPontosRios
