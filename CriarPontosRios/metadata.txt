@@ -10,7 +10,7 @@
 name=Criar Pontos nos Rios
 qgisMinimumVersion=2.0
 description=Cria pontos de inicio, fim e confluentes dos Rios.
-version=1.0
+version=0.1
 author=Antônio Teles
 email=antoniot.leandro@gmail.com
 
